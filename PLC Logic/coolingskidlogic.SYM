@@ -1,223 +1,230 @@
 ;Version=2
-;ProjectId=1639114
+;ProjectId=1962767
 ;Checksum=0
 ;Filesize=0
 .rVersion:REAL:4:140:4:b:16#02000044
-TB_MainProgram2.aiIntInputSignal:ARRAY [1..3] OF INT:4:35280:6:b:16#00000040
-TB_MainProgram2.aiIntInputSignal[1]:INT:4:35280:2:b:16#00000040
-TB_MainProgram2.aiIntInputSignal[2]:INT:4:35282:2:b:16#00000040
-TB_MainProgram2.aiIntInputSignal[3]:INT:4:35284:2:b:16#00000040
-TB_MainProgram2.aiTickLimits:ARRAY [1..4] OF DINT:4:35520:16:b:16#00000040
-TB_MainProgram2.aiTickLimits[1]:DINT:4:35520:4:b:16#00000040
-TB_MainProgram2.aiTickLimits[2]:DINT:4:35524:4:b:16#00000040
-TB_MainProgram2.aiTickLimits[3]:DINT:4:35528:4:b:16#00000040
-TB_MainProgram2.aiTickLimits[4]:DINT:4:35532:4:b:16#00000040
-TB_MainProgram2.aiTicks:ARRAY [1..3] OF DINT:4:35508:12:b:16#00000040
-TB_MainProgram2.aiTicks[1]:DINT:4:35508:4:b:16#00000040
-TB_MainProgram2.aiTicks[2]:DINT:4:35512:4:b:16#00000040
-TB_MainProgram2.aiTicks[3]:DINT:4:35516:4:b:16#00000040
-TB_MainProgram2.arAutoPercOpen:ARRAY [1..5] OF REAL:4:35488:20:b:16#00000040
-TB_MainProgram2.arAutoPercOpen[1]:REAL:4:35488:4:b:16#00000040
-TB_MainProgram2.arAutoPercOpen[2]:REAL:4:35492:4:b:16#00000040
-TB_MainProgram2.arAutoPercOpen[3]:REAL:4:35496:4:b:16#00000040
-TB_MainProgram2.arAutoPercOpen[4]:REAL:4:35500:4:b:16#00000040
-TB_MainProgram2.arAutoPercOpen[5]:REAL:4:35504:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds:ARRAY [1..14] OF REAL:4:35132:56:b:16#00000040
-TB_MainProgram2.arInputNormBounds[10]:REAL:4:35168:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[11]:REAL:4:35172:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[12]:REAL:4:35176:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[13]:REAL:4:35180:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[14]:REAL:4:35184:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[1]:REAL:4:35132:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[2]:REAL:4:35136:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[3]:REAL:4:35140:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[4]:REAL:4:35144:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[5]:REAL:4:35148:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[6]:REAL:4:35152:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[7]:REAL:4:35156:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[8]:REAL:4:35160:4:b:16#00000040
-TB_MainProgram2.arInputNormBounds[9]:REAL:4:35164:4:b:16#00000040
-TB_MainProgram2.arInputNormTol:ARRAY [1..7] OF REAL:4:35188:28:b:16#00000040
-TB_MainProgram2.arInputNormTol[1]:REAL:4:35188:4:b:16#00000040
-TB_MainProgram2.arInputNormTol[2]:REAL:4:35192:4:b:16#00000040
-TB_MainProgram2.arInputNormTol[3]:REAL:4:35196:4:b:16#00000040
-TB_MainProgram2.arInputNormTol[4]:REAL:4:35200:4:b:16#00000040
-TB_MainProgram2.arInputNormTol[5]:REAL:4:35204:4:b:16#00000040
-TB_MainProgram2.arInputNormTol[6]:REAL:4:35208:4:b:16#00000040
-TB_MainProgram2.arInputNormTol[7]:REAL:4:35212:4:b:16#00000040
-TB_MainProgram2.arInputValBounds:ARRAY [1..14] OF REAL:4:35216:56:b:16#00000040
-TB_MainProgram2.arInputValBounds[10]:REAL:4:35252:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[11]:REAL:4:35256:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[12]:REAL:4:35260:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[13]:REAL:4:35264:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[14]:REAL:4:35268:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[1]:REAL:4:35216:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[2]:REAL:4:35220:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[3]:REAL:4:35224:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[4]:REAL:4:35228:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[5]:REAL:4:35232:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[6]:REAL:4:35236:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[7]:REAL:4:35240:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[8]:REAL:4:35244:4:b:16#00000040
-TB_MainProgram2.arInputValBounds[9]:REAL:4:35248:4:b:16#00000040
-TB_MainProgram2.arLinearizedInputSignals:ARRAY [1..4] OF REAL:4:35344:16:b:16#00000040
-TB_MainProgram2.arLinearizedInputSignals[1]:REAL:4:35344:4:b:16#00000040
-TB_MainProgram2.arLinearizedInputSignals[2]:REAL:4:35348:4:b:16#00000040
-TB_MainProgram2.arLinearizedInputSignals[3]:REAL:4:35352:4:b:16#00000040
-TB_MainProgram2.arLinearizedInputSignals[4]:REAL:4:35356:4:b:16#00000040
-TB_MainProgram2.arMultiSignals:ARRAY [1..5] OF REAL:4:35324:20:b:16#00000040
-TB_MainProgram2.arMultiSignals[1]:REAL:4:35324:4:b:16#00000040
-TB_MainProgram2.arMultiSignals[2]:REAL:4:35328:4:b:16#00000040
-TB_MainProgram2.arMultiSignals[3]:REAL:4:35332:4:b:16#00000040
-TB_MainProgram2.arMultiSignals[4]:REAL:4:35336:4:b:16#00000040
-TB_MainProgram2.arMultiSignals[5]:REAL:4:35340:4:b:16#00000040
-TB_MainProgram2.arNormInputSignals:ARRAY [1..7] OF REAL:4:35288:28:b:16#00000040
-TB_MainProgram2.arNormInputSignals[1]:REAL:4:35288:4:b:16#00000040
-TB_MainProgram2.arNormInputSignals[2]:REAL:4:35292:4:b:16#00000040
-TB_MainProgram2.arNormInputSignals[3]:REAL:4:35296:4:b:16#00000040
-TB_MainProgram2.arNormInputSignals[4]:REAL:4:35300:4:b:16#00000040
-TB_MainProgram2.arNormInputSignals[5]:REAL:4:35304:4:b:16#00000040
-TB_MainProgram2.arNormInputSignals[6]:REAL:4:35308:4:b:16#00000040
-TB_MainProgram2.arNormInputSignals[7]:REAL:4:35312:4:b:16#00000040
-TB_MainProgram2.arThresholds:ARRAY [1..4] OF REAL:4:35472:16:b:16#00000040
-TB_MainProgram2.arThresholds[1]:REAL:4:35472:4:b:16#00000040
-TB_MainProgram2.arThresholds[2]:REAL:4:35476:4:b:16#00000040
-TB_MainProgram2.arThresholds[3]:REAL:4:35480:4:b:16#00000040
-TB_MainProgram2.arThresholds[4]:REAL:4:35484:4:b:16#00000040
-TB_MainProgram2.awWordInputSignal:ARRAY [1..4] OF WORD:4:35272:8:b:16#00000040
-TB_MainProgram2.awWordInputSignal[1]:WORD:4:35272:2:b:16#00000040
-TB_MainProgram2.awWordInputSignal[2]:WORD:4:35274:2:b:16#00000040
-TB_MainProgram2.awWordInputSignal[3]:WORD:4:35276:2:b:16#00000040
-TB_MainProgram2.awWordInputSignal[4]:WORD:4:35278:2:b:16#00000040
-TB_MainProgram2.axActiveFans:ARRAY [1..2] OF BOOL:4:35321:2:b:16#00000040
-TB_MainProgram2.axActiveFans[1]:BOOL:4:35321:1:b:16#00000040
-TB_MainProgram2.axActiveFans[2]:BOOL:4:35322:1:b:16#00000040
-TB_MainProgram2.axActivePumps:ARRAY [1..2] OF BOOL:4:35286:2:b:16#00000040
-TB_MainProgram2.axActivePumps[1]:BOOL:4:35286:1:b:16#00000040
-TB_MainProgram2.axActivePumps[2]:BOOL:4:35287:1:b:16#00000040
-TB_MainProgram2.axAutoTurnoverRequests:ARRAY [1..2] OF BOOL:4:35094:2:b:16#00000040
-TB_MainProgram2.axAutoTurnoverRequests[1]:BOOL:4:35094:1:b:16#00000040
-TB_MainProgram2.axAutoTurnoverRequests[2]:BOOL:4:35095:1:b:16#00000040
-TB_MainProgram2.axBoolDebouncedInputSignal:ARRAY [1..5] OF BOOL:4:35316:5:b:16#00000040
-TB_MainProgram2.axBoolDebouncedInputSignal[1]:BOOL:4:35316:1:b:16#00000040
-TB_MainProgram2.axBoolDebouncedInputSignal[2]:BOOL:4:35317:1:b:16#00000040
-TB_MainProgram2.axBoolDebouncedInputSignal[3]:BOOL:4:35318:1:b:16#00000040
-TB_MainProgram2.axBoolDebouncedInputSignal[4]:BOOL:4:35319:1:b:16#00000040
-TB_MainProgram2.axBoolDebouncedInputSignal[5]:BOOL:4:35320:1:b:16#00000040
-TB_MainProgram2.axBoolInputSignal:ARRAY [1..5] OF BOOL:4:35360:5:b:16#00000040
-TB_MainProgram2.axBoolInputSignal[1]:BOOL:4:35360:1:b:16#00000040
-TB_MainProgram2.axBoolInputSignal[2]:BOOL:4:35361:1:b:16#00000040
-TB_MainProgram2.axBoolInputSignal[3]:BOOL:4:35362:1:b:16#00000040
-TB_MainProgram2.axBoolInputSignal[4]:BOOL:4:35363:1:b:16#00000040
-TB_MainProgram2.axBoolInputSignal[5]:BOOL:4:35364:1:b:16#00000040
-TB_MainProgram2.axEOL:ARRAY [1..6] OF BOOL:4:35463:6:b:16#00000040
-TB_MainProgram2.axEOL[1]:BOOL:4:35463:1:b:16#00000040
-TB_MainProgram2.axEOL[2]:BOOL:4:35464:1:b:16#00000040
-TB_MainProgram2.axEOL[3]:BOOL:4:35465:1:b:16#00000040
-TB_MainProgram2.axEOL[4]:BOOL:4:35466:1:b:16#00000040
-TB_MainProgram2.axEOL[5]:BOOL:4:35467:1:b:16#00000040
-TB_MainProgram2.axEOL[6]:BOOL:4:35468:1:b:16#00000040
-TB_MainProgram2.axFaultFlags:ARRAY [1..25] OF BOOL:4:35411:25:b:16#00000040
-TB_MainProgram2.axFaultFlags[10]:BOOL:4:35420:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[11]:BOOL:4:35421:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[12]:BOOL:4:35422:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[13]:BOOL:4:35423:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[14]:BOOL:4:35424:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[15]:BOOL:4:35425:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[16]:BOOL:4:35426:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[17]:BOOL:4:35427:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[18]:BOOL:4:35428:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[19]:BOOL:4:35429:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[1]:BOOL:4:35411:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[20]:BOOL:4:35430:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[21]:BOOL:4:35431:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[22]:BOOL:4:35432:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[23]:BOOL:4:35433:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[24]:BOOL:4:35434:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[25]:BOOL:4:35435:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[2]:BOOL:4:35412:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[3]:BOOL:4:35413:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[4]:BOOL:4:35414:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[5]:BOOL:4:35415:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[6]:BOOL:4:35416:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[7]:BOOL:4:35417:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[8]:BOOL:4:35418:1:b:16#00000040
-TB_MainProgram2.axFaultFlags[9]:BOOL:4:35419:1:b:16#00000040
-TB_MainProgram2.axHydraulicFailures:ARRAY [1..2] OF BOOL:4:35461:2:b:16#00000040
-TB_MainProgram2.axHydraulicFailures[1]:BOOL:4:35461:1:b:16#00000040
-TB_MainProgram2.axHydraulicFailures[2]:BOOL:4:35462:1:b:16#00000040
-TB_MainProgram2.axInputSignalFlags:ARRAY [1..5] OF BOOL:4:35406:5:b:16#00000040
-TB_MainProgram2.axInputSignalFlags[1]:BOOL:4:35406:1:b:16#00000040
-TB_MainProgram2.axInputSignalFlags[2]:BOOL:4:35407:1:b:16#00000040
-TB_MainProgram2.axInputSignalFlags[3]:BOOL:4:35408:1:b:16#00000040
-TB_MainProgram2.axInputSignalFlags[4]:BOOL:4:35409:1:b:16#00000040
-TB_MainProgram2.axInputSignalFlags[5]:BOOL:4:35410:1:b:16#00000040
-TB_MainProgram2.axLifeCycleSwitchRequest:BOOL:4:35131:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts:ARRAY [1..25] OF BOOL:4:35436:25:b:16#00000040
-TB_MainProgram2.axSystemAlerts[10]:BOOL:4:35445:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[11]:BOOL:4:35446:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[12]:BOOL:4:35447:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[13]:BOOL:4:35448:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[14]:BOOL:4:35449:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[15]:BOOL:4:35450:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[16]:BOOL:4:35451:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[17]:BOOL:4:35452:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[18]:BOOL:4:35453:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[19]:BOOL:4:35454:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[1]:BOOL:4:35436:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[20]:BOOL:4:35455:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[21]:BOOL:4:35456:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[22]:BOOL:4:35457:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[23]:BOOL:4:35458:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[24]:BOOL:4:35459:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[25]:BOOL:4:35460:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[2]:BOOL:4:35437:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[3]:BOOL:4:35438:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[4]:BOOL:4:35439:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[5]:BOOL:4:35440:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[6]:BOOL:4:35441:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[7]:BOOL:4:35442:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[8]:BOOL:4:35443:1:b:16#00000040
-TB_MainProgram2.axSystemAlerts[9]:BOOL:4:35444:1:b:16#00000040
-TB_MainProgram2.coldStartLatch:BOOL:4:62167:1:b:16#00000040
-TB_MainProgram2.dummyboolsignals:ARRAY [1..5] OF BOOL:4:35126:5:b:16#00000040
-TB_MainProgram2.dummyboolsignals[1]:BOOL:4:35126:1:b:16#00000040
-TB_MainProgram2.dummyboolsignals[2]:BOOL:4:35127:1:b:16#00000040
-TB_MainProgram2.dummyboolsignals[3]:BOOL:4:35128:1:b:16#00000040
-TB_MainProgram2.dummyboolsignals[4]:BOOL:4:35129:1:b:16#00000040
-TB_MainProgram2.dummyboolsignals[5]:BOOL:4:35130:1:b:16#00000040
-TB_MainProgram2.dummyintsignals:ARRAY [1..3] OF INT:4:35120:6:b:16#00000040
-TB_MainProgram2.dummyintsignals[1]:INT:4:35120:2:b:16#00000040
-TB_MainProgram2.dummyintsignals[2]:INT:4:35122:2:b:16#00000040
-TB_MainProgram2.dummyintsignals[3]:INT:4:35124:2:b:16#00000040
-TB_MainProgram2.dummywordsignals:ARRAY [1..4] OF WORD:4:35112:8:b:16#00000040
-TB_MainProgram2.dummywordsignals[1]:WORD:4:35112:2:b:16#00000040
-TB_MainProgram2.dummywordsignals[2]:WORD:4:35114:2:b:16#00000040
-TB_MainProgram2.dummywordsignals[3]:WORD:4:35116:2:b:16#00000040
-TB_MainProgram2.dummywordsignals[4]:WORD:4:35118:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals:ARRAY [1..10] OF INT:4:35366:20:b:16#00000040
-TB_MainProgram2.emptyIntSignals[10]:INT:4:35384:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[1]:INT:4:35366:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[2]:INT:4:35368:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[3]:INT:4:35370:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[4]:INT:4:35372:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[5]:INT:4:35374:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[6]:INT:4:35376:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[7]:INT:4:35378:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[8]:INT:4:35380:2:b:16#00000040
-TB_MainProgram2.emptyIntSignals[9]:INT:4:35382:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals:ARRAY [1..10] OF WORD:4:35386:20:b:16#00000040
-TB_MainProgram2.emptyWordSignals[10]:WORD:4:35404:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[1]:WORD:4:35386:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[2]:WORD:4:35388:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[3]:WORD:4:35390:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[4]:WORD:4:35392:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[5]:WORD:4:35394:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[6]:WORD:4:35396:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[7]:WORD:4:35398:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[8]:WORD:4:35400:2:b:16#00000040
-TB_MainProgram2.emptyWordSignals[9]:WORD:4:35402:2:b:16#00000040
-TB_MainProgram2.fbcheckconductivity:DATA:4:35560:216:b:16#00000040
+TB_MainProgram2.aiIntInputSignal:ARRAY [1..3] OF INT:4:35280:6:b:16#40000040
+TB_MainProgram2.aiIntInputSignal[1]:INT:4:35280:2:b:16#40000040
+TB_MainProgram2.aiIntInputSignal[2]:INT:4:35282:2:b:16#40000040
+TB_MainProgram2.aiIntInputSignal[3]:INT:4:35284:2:b:16#40000040
+TB_MainProgram2.aiTickLimits:ARRAY [1..4] OF DINT:4:35520:16:b:16#40000040
+TB_MainProgram2.aiTickLimits[1]:DINT:4:35520:4:b:16#40000040
+TB_MainProgram2.aiTickLimits[2]:DINT:4:35524:4:b:16#40000040
+TB_MainProgram2.aiTickLimits[3]:DINT:4:35528:4:b:16#40000040
+TB_MainProgram2.aiTickLimits[4]:DINT:4:35532:4:b:16#40000040
+TB_MainProgram2.aiTicks:ARRAY [1..3] OF DINT:4:35508:12:b:16#40000040
+TB_MainProgram2.aiTicks[1]:DINT:4:35508:4:b:16#40000040
+TB_MainProgram2.aiTicks[2]:DINT:4:35512:4:b:16#40000040
+TB_MainProgram2.aiTicks[3]:DINT:4:35516:4:b:16#40000040
+TB_MainProgram2.arAutoPercOpen:ARRAY [1..5] OF REAL:4:35488:20:b:16#40000040
+TB_MainProgram2.arAutoPercOpen[1]:REAL:4:35488:4:b:16#40000040
+TB_MainProgram2.arAutoPercOpen[2]:REAL:4:35492:4:b:16#40000040
+TB_MainProgram2.arAutoPercOpen[3]:REAL:4:35496:4:b:16#40000040
+TB_MainProgram2.arAutoPercOpen[4]:REAL:4:35500:4:b:16#40000040
+TB_MainProgram2.arAutoPercOpen[5]:REAL:4:35504:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds:ARRAY [1..14] OF REAL:4:35132:56:b:16#40000040
+TB_MainProgram2.arInputNormBounds[10]:REAL:4:35168:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[11]:REAL:4:35172:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[12]:REAL:4:35176:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[13]:REAL:4:35180:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[14]:REAL:4:35184:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[1]:REAL:4:35132:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[2]:REAL:4:35136:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[3]:REAL:4:35140:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[4]:REAL:4:35144:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[5]:REAL:4:35148:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[6]:REAL:4:35152:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[7]:REAL:4:35156:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[8]:REAL:4:35160:4:b:16#40000040
+TB_MainProgram2.arInputNormBounds[9]:REAL:4:35164:4:b:16#40000040
+TB_MainProgram2.arInputNormTol:ARRAY [1..7] OF REAL:4:35188:28:b:16#40000040
+TB_MainProgram2.arInputNormTol[1]:REAL:4:35188:4:b:16#40000040
+TB_MainProgram2.arInputNormTol[2]:REAL:4:35192:4:b:16#40000040
+TB_MainProgram2.arInputNormTol[3]:REAL:4:35196:4:b:16#40000040
+TB_MainProgram2.arInputNormTol[4]:REAL:4:35200:4:b:16#40000040
+TB_MainProgram2.arInputNormTol[5]:REAL:4:35204:4:b:16#40000040
+TB_MainProgram2.arInputNormTol[6]:REAL:4:35208:4:b:16#40000040
+TB_MainProgram2.arInputNormTol[7]:REAL:4:35212:4:b:16#40000040
+TB_MainProgram2.arInputValBounds:ARRAY [1..14] OF REAL:4:35216:56:b:16#40000040
+TB_MainProgram2.arInputValBounds[10]:REAL:4:35252:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[11]:REAL:4:35256:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[12]:REAL:4:35260:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[13]:REAL:4:35264:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[14]:REAL:4:35268:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[1]:REAL:4:35216:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[2]:REAL:4:35220:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[3]:REAL:4:35224:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[4]:REAL:4:35228:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[5]:REAL:4:35232:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[6]:REAL:4:35236:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[7]:REAL:4:35240:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[8]:REAL:4:35244:4:b:16#40000040
+TB_MainProgram2.arInputValBounds[9]:REAL:4:35248:4:b:16#40000040
+TB_MainProgram2.arLinearizedInputSignals:ARRAY [1..4] OF REAL:4:35344:16:b:16#40000040
+TB_MainProgram2.arLinearizedInputSignals[1]:REAL:4:35344:4:b:16#40000040
+TB_MainProgram2.arLinearizedInputSignals[2]:REAL:4:35348:4:b:16#40000040
+TB_MainProgram2.arLinearizedInputSignals[3]:REAL:4:35352:4:b:16#40000040
+TB_MainProgram2.arLinearizedInputSignals[4]:REAL:4:35356:4:b:16#40000040
+TB_MainProgram2.arMultiSignals:ARRAY [1..5] OF REAL:4:35324:20:b:16#40000040
+TB_MainProgram2.arMultiSignals[1]:REAL:4:35324:4:b:16#40000040
+TB_MainProgram2.arMultiSignals[2]:REAL:4:35328:4:b:16#40000040
+TB_MainProgram2.arMultiSignals[3]:REAL:4:35332:4:b:16#40000040
+TB_MainProgram2.arMultiSignals[4]:REAL:4:35336:4:b:16#40000040
+TB_MainProgram2.arMultiSignals[5]:REAL:4:35340:4:b:16#40000040
+TB_MainProgram2.arNormInputSignals:ARRAY [1..7] OF REAL:4:35288:28:b:16#40000040
+TB_MainProgram2.arNormInputSignals[1]:REAL:4:35288:4:b:16#40000040
+TB_MainProgram2.arNormInputSignals[2]:REAL:4:35292:4:b:16#40000040
+TB_MainProgram2.arNormInputSignals[3]:REAL:4:35296:4:b:16#40000040
+TB_MainProgram2.arNormInputSignals[4]:REAL:4:35300:4:b:16#40000040
+TB_MainProgram2.arNormInputSignals[5]:REAL:4:35304:4:b:16#40000040
+TB_MainProgram2.arNormInputSignals[6]:REAL:4:35308:4:b:16#40000040
+TB_MainProgram2.arNormInputSignals[7]:REAL:4:35312:4:b:16#40000040
+TB_MainProgram2.arThresholds:ARRAY [1..4] OF REAL:4:35472:16:b:16#40000040
+TB_MainProgram2.arThresholds[1]:REAL:4:35472:4:b:16#40000040
+TB_MainProgram2.arThresholds[2]:REAL:4:35476:4:b:16#40000040
+TB_MainProgram2.arThresholds[3]:REAL:4:35480:4:b:16#40000040
+TB_MainProgram2.arThresholds[4]:REAL:4:35484:4:b:16#40000040
+TB_MainProgram2.awWordInputSignal:ARRAY [1..4] OF WORD:4:35272:8:b:16#40000040
+TB_MainProgram2.awWordInputSignal[1]:WORD:4:35272:2:b:16#40000040
+TB_MainProgram2.awWordInputSignal[2]:WORD:4:35274:2:b:16#40000040
+TB_MainProgram2.awWordInputSignal[3]:WORD:4:35276:2:b:16#40000040
+TB_MainProgram2.awWordInputSignal[4]:WORD:4:35278:2:b:16#40000040
+TB_MainProgram2.axActiveFans:ARRAY [1..2] OF BOOL:4:35321:2:b:16#40000040
+TB_MainProgram2.axActiveFans[1]:BOOL:4:35321:1:b:16#40000040
+TB_MainProgram2.axActiveFans[2]:BOOL:4:35322:1:b:16#40000040
+TB_MainProgram2.axActivePumps:ARRAY [1..2] OF BOOL:4:35286:2:b:16#40000040
+TB_MainProgram2.axActivePumps[1]:BOOL:4:35286:1:b:16#40000040
+TB_MainProgram2.axActivePumps[2]:BOOL:4:35287:1:b:16#40000040
+TB_MainProgram2.axAutoTurnoverRequests:ARRAY [1..2] OF BOOL:4:35094:2:b:16#40000040
+TB_MainProgram2.axAutoTurnoverRequests[1]:BOOL:4:35094:1:b:16#40000040
+TB_MainProgram2.axAutoTurnoverRequests[2]:BOOL:4:35095:1:b:16#40000040
+TB_MainProgram2.axBoolDebouncedInputSignal:ARRAY [1..5] OF BOOL:4:35316:5:b:16#40000040
+TB_MainProgram2.axBoolDebouncedInputSignal[1]:BOOL:4:35316:1:b:16#40000040
+TB_MainProgram2.axBoolDebouncedInputSignal[2]:BOOL:4:35317:1:b:16#40000040
+TB_MainProgram2.axBoolDebouncedInputSignal[3]:BOOL:4:35318:1:b:16#40000040
+TB_MainProgram2.axBoolDebouncedInputSignal[4]:BOOL:4:35319:1:b:16#40000040
+TB_MainProgram2.axBoolDebouncedInputSignal[5]:BOOL:4:35320:1:b:16#40000040
+TB_MainProgram2.axBoolInputSignal:ARRAY [1..5] OF BOOL:4:35360:5:b:16#40000040
+TB_MainProgram2.axBoolInputSignal[1]:BOOL:4:35360:1:b:16#40000040
+TB_MainProgram2.axBoolInputSignal[2]:BOOL:4:35361:1:b:16#40000040
+TB_MainProgram2.axBoolInputSignal[3]:BOOL:4:35362:1:b:16#40000040
+TB_MainProgram2.axBoolInputSignal[4]:BOOL:4:35363:1:b:16#40000040
+TB_MainProgram2.axBoolInputSignal[5]:BOOL:4:35364:1:b:16#40000040
+TB_MainProgram2.axEOL:ARRAY [1..6] OF BOOL:4:35463:6:b:16#40000040
+TB_MainProgram2.axEOL[1]:BOOL:4:35463:1:b:16#40000040
+TB_MainProgram2.axEOL[2]:BOOL:4:35464:1:b:16#40000040
+TB_MainProgram2.axEOL[3]:BOOL:4:35465:1:b:16#40000040
+TB_MainProgram2.axEOL[4]:BOOL:4:35466:1:b:16#40000040
+TB_MainProgram2.axEOL[5]:BOOL:4:35467:1:b:16#40000040
+TB_MainProgram2.axEOL[6]:BOOL:4:35468:1:b:16#40000040
+TB_MainProgram2.axFaultFlags:ARRAY [1..25] OF BOOL:4:35411:25:b:16#40000040
+TB_MainProgram2.axFaultFlags[10]:BOOL:4:35420:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[11]:BOOL:4:35421:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[12]:BOOL:4:35422:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[13]:BOOL:4:35423:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[14]:BOOL:4:35424:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[15]:BOOL:4:35425:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[16]:BOOL:4:35426:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[17]:BOOL:4:35427:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[18]:BOOL:4:35428:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[19]:BOOL:4:35429:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[1]:BOOL:4:35411:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[20]:BOOL:4:35430:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[21]:BOOL:4:35431:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[22]:BOOL:4:35432:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[23]:BOOL:4:35433:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[24]:BOOL:4:35434:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[25]:BOOL:4:35435:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[2]:BOOL:4:35412:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[3]:BOOL:4:35413:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[4]:BOOL:4:35414:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[5]:BOOL:4:35415:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[6]:BOOL:4:35416:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[7]:BOOL:4:35417:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[8]:BOOL:4:35418:1:b:16#40000040
+TB_MainProgram2.axFaultFlags[9]:BOOL:4:35419:1:b:16#40000040
+TB_MainProgram2.axHydraulicFailures:ARRAY [1..2] OF BOOL:4:35461:2:b:16#40000040
+TB_MainProgram2.axHydraulicFailures[1]:BOOL:4:35461:1:b:16#40000040
+TB_MainProgram2.axHydraulicFailures[2]:BOOL:4:35462:1:b:16#40000040
+TB_MainProgram2.axInputSignalFlags:ARRAY [1..5] OF BOOL:4:35406:5:b:16#40000040
+TB_MainProgram2.axInputSignalFlags[1]:BOOL:4:35406:1:b:16#40000040
+TB_MainProgram2.axInputSignalFlags[2]:BOOL:4:35407:1:b:16#40000040
+TB_MainProgram2.axInputSignalFlags[3]:BOOL:4:35408:1:b:16#40000040
+TB_MainProgram2.axInputSignalFlags[4]:BOOL:4:35409:1:b:16#40000040
+TB_MainProgram2.axInputSignalFlags[5]:BOOL:4:35410:1:b:16#40000040
+TB_MainProgram2.axLifeCycleSwitchRequest:BOOL:4:35131:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts:ARRAY [1..25] OF BOOL:4:35436:25:b:16#40000040
+TB_MainProgram2.axSystemAlerts[10]:BOOL:4:35445:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[11]:BOOL:4:35446:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[12]:BOOL:4:35447:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[13]:BOOL:4:35448:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[14]:BOOL:4:35449:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[15]:BOOL:4:35450:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[16]:BOOL:4:35451:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[17]:BOOL:4:35452:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[18]:BOOL:4:35453:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[19]:BOOL:4:35454:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[1]:BOOL:4:35436:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[20]:BOOL:4:35455:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[21]:BOOL:4:35456:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[22]:BOOL:4:35457:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[23]:BOOL:4:35458:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[24]:BOOL:4:35459:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[25]:BOOL:4:35460:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[2]:BOOL:4:35437:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[3]:BOOL:4:35438:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[4]:BOOL:4:35439:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[5]:BOOL:4:35440:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[6]:BOOL:4:35441:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[7]:BOOL:4:35442:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[8]:BOOL:4:35443:1:b:16#40000040
+TB_MainProgram2.axSystemAlerts[9]:BOOL:4:35444:1:b:16#40000040
+TB_MainProgram2.coldStartLatch:BOOL:4:62167:1:b:16#40000040
+TB_MainProgram2.dummyboolsignals:ARRAY [1..5] OF BOOL:4:35126:5:b:16#40000040
+TB_MainProgram2.dummyboolsignals[1]:BOOL:4:35126:1:b:16#40000040
+TB_MainProgram2.dummyboolsignals[2]:BOOL:4:35127:1:b:16#40000040
+TB_MainProgram2.dummyboolsignals[3]:BOOL:4:35128:1:b:16#40000040
+TB_MainProgram2.dummyboolsignals[4]:BOOL:4:35129:1:b:16#40000040
+TB_MainProgram2.dummyboolsignals[5]:BOOL:4:35130:1:b:16#40000040
+TB_MainProgram2.dummyintsignals:ARRAY [1..3] OF INT:4:35120:6:b:16#40000040
+TB_MainProgram2.dummyintsignals[1]:INT:4:35120:2:b:16#40000040
+TB_MainProgram2.dummyintsignals[2]:INT:4:35122:2:b:16#40000040
+TB_MainProgram2.dummyintsignals[3]:INT:4:35124:2:b:16#40000040
+TB_MainProgram2.dummywordsignals:ARRAY [1..4] OF WORD:4:35112:8:b:16#40000040
+TB_MainProgram2.dummywordsignals[1]:WORD:4:35112:2:b:16#40000040
+TB_MainProgram2.dummywordsignals[2]:WORD:4:35114:2:b:16#40000040
+TB_MainProgram2.dummywordsignals[3]:WORD:4:35116:2:b:16#40000040
+TB_MainProgram2.dummywordsignals[4]:WORD:4:35118:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals:ARRAY [1..10] OF INT:4:35366:20:b:16#40000040
+TB_MainProgram2.emptyIntSignals[10]:INT:4:35384:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[1]:INT:4:35366:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[2]:INT:4:35368:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[3]:INT:4:35370:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[4]:INT:4:35372:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[5]:INT:4:35374:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[6]:INT:4:35376:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[7]:INT:4:35378:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[8]:INT:4:35380:2:b:16#40000040
+TB_MainProgram2.emptyIntSignals[9]:INT:4:35382:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals:ARRAY [1..10] OF WORD:4:35386:20:b:16#40000040
+TB_MainProgram2.emptyWordSignals[10]:WORD:4:35404:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[1]:WORD:4:35386:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[2]:WORD:4:35388:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[3]:WORD:4:35390:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[4]:WORD:4:35392:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[5]:WORD:4:35394:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[6]:WORD:4:35396:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[7]:WORD:4:35398:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[8]:WORD:4:35400:2:b:16#40000040
+TB_MainProgram2.emptyWordSignals[9]:WORD:4:35402:2:b:16#40000040
+TB_MainProgram2.fbact:DATA:4:36140:8:b:16#10000040
+TB_MainProgram2.fbact.EN:BOOL:4:36140:1:b:16#00000001
+TB_MainProgram2.fbact.END:BOOL:4:36143:1:b:16#00000002
+TB_MainProgram2.fbact.xPrimaryPumpActuate:BOOL:4:36144:1:b:16#00000002
+TB_MainProgram2.fbact.xPrimaryPumpSignal:BOOL:4:36141:1:b:16#00000001
+TB_MainProgram2.fbact.xSecondaryPumpActuate:BOOL:4:36145:1:b:16#00000002
+TB_MainProgram2.fbact.xSecondaryPumpSignal:BOOL:4:36142:1:b:16#00000001
+TB_MainProgram2.fbcheckconductivity:DATA:4:35560:216:b:16#40000040
 TB_MainProgram2.fbcheckconductivity.EN:BOOL:4:35746:1:b:16#00000001
 TB_MainProgram2.fbcheckconductivity.END:BOOL:4:35772:1:b:16#00000002
 TB_MainProgram2.fbcheckconductivity.fbdebounce1:DATA:4:35616:64:b:16#10000000
@@ -297,7 +304,7 @@ TB_MainProgram2.fbcheckconductivity.xConductivityMisalignmentErrorCandidate1:BOO
 TB_MainProgram2.fbcheckconductivity.xConductivityMisalignmentErrorCandidate2:BOOL:4:35745:1:b:16#00000000
 TB_MainProgram2.fbcheckconductivity.xConductivitySensorError:BOOL:4:35773:1:b:16#00000002
 TB_MainProgram2.fbcheckconductivity.xConductivityWarning:BOOL:4:35774:1:b:16#00000002
-TB_MainProgram2.fbcheckwaterlevel:DATA:4:35552:8:b:16#00000040
+TB_MainProgram2.fbcheckwaterlevel:DATA:4:35552:8:b:16#40000040
 TB_MainProgram2.fbcheckwaterlevel.EN:BOOL:4:35552:1:b:16#00000001
 TB_MainProgram2.fbcheckwaterlevel.END:BOOL:4:35555:1:b:16#00000002
 TB_MainProgram2.fbcheckwaterlevel.xLow:BOOL:4:35553:1:b:16#00000001
@@ -305,7 +312,7 @@ TB_MainProgram2.fbcheckwaterlevel.xLowLow:BOOL:4:35554:1:b:16#00000001
 TB_MainProgram2.fbcheckwaterlevel.xVesselLevelCritical:BOOL:4:35557:1:b:16#00000002
 TB_MainProgram2.fbcheckwaterlevel.xVesselLevelLow:BOOL:4:35556:1:b:16#00000002
 TB_MainProgram2.fbcheckwaterlevel.xVesselLevelSensorFailure:BOOL:4:35558:1:b:16#00000002
-TB_MainProgram2.fbcondassign:DATA:4:37544:196:b:16#00000040
+TB_MainProgram2.fbcondassign:DATA:4:37544:196:b:16#40000040
 TB_MainProgram2.fbcondassign.EN:BOOL:4:37692:1:b:16#00000001
 TB_MainProgram2.fbcondassign.END:BOOL:4:37724:1:b:16#00000002
 TB_MainProgram2.fbcondassign.fbdebounce:DATA:4:37628:64:b:16#10000000
@@ -367,7 +374,7 @@ TB_MainProgram2.fbcondassign.wWordSignal:REF:4:37728:4:b:16#00000403
 TB_MainProgram2.fbcondassign.xAssignmentFlag:BOOL:4:37725:1:b:16#00000002
 TB_MainProgram2.fbcondassign.xBoundError:BOOL:4:37568:1:b:16#00000000
 TB_MainProgram2.fbcondassign.xWord:BOOL:4:37693:1:b:16#00000001
-TB_MainProgram2.fbcondfault:DATA:4:38344:100:b:16#00000040
+TB_MainProgram2.fbcondfault:DATA:4:38344:100:b:16#40000040
 TB_MainProgram2.fbcondfault.DONE:BOOL:4:38438:1:b:16#00000002
 TB_MainProgram2.fbcondfault.EN:BOOL:4:38428:1:b:16#00000001
 TB_MainProgram2.fbcondfault.fbdesig:DATA:4:38364:64:b:16#10000000
@@ -415,7 +422,7 @@ TB_MainProgram2.fbcondfault.xEdgeSignal1:BOOL:4:38361:1:b:16#00000000
 TB_MainProgram2.fbcondfault.xOutputSignal:BOOL:4:38439:1:b:16#00000002
 TB_MainProgram2.fbcondfault.xSignalFall:BOOL:4:38360:1:b:16#00000000
 TB_MainProgram2.fbcondfault.xSignalRise:BOOL:4:38352:1:b:16#00000000
-TB_MainProgram2.fbcondwarning:DATA:4:38244:100:b:16#00000040
+TB_MainProgram2.fbcondwarning:DATA:4:38244:100:b:16#40000040
 TB_MainProgram2.fbcondwarning.DONE:BOOL:4:38338:1:b:16#00000002
 TB_MainProgram2.fbcondwarning.EN:BOOL:4:38328:1:b:16#00000001
 TB_MainProgram2.fbcondwarning.fbdesig:DATA:4:38264:64:b:16#10000000
@@ -463,7 +470,7 @@ TB_MainProgram2.fbcondwarning.xEdgeSignal1:BOOL:4:38261:1:b:16#00000000
 TB_MainProgram2.fbcondwarning.xOutputSignal:BOOL:4:38339:1:b:16#00000002
 TB_MainProgram2.fbcondwarning.xSignalFall:BOOL:4:38260:1:b:16#00000000
 TB_MainProgram2.fbcondwarning.xSignalRise:BOOL:4:38252:1:b:16#00000000
-TB_MainProgram2.fbfaultcheck:DATA:4:36236:36:b:16#00000040
+TB_MainProgram2.fbfaultcheck:DATA:4:36236:36:b:16#40000040
 TB_MainProgram2.fbfaultcheck.axInstrumentFlags:ARRAY [1..25] OF BOOL:4:36239:25:b:16#00000001
 TB_MainProgram2.fbfaultcheck.axInstrumentFlags[10]:BOOL:4:36248:1:b:16#00000001
 TB_MainProgram2.fbfaultcheck.axInstrumentFlags[11]:BOOL:4:36249:1:b:16#00000001
@@ -494,7 +501,7 @@ TB_MainProgram2.fbfaultcheck.i:INT:4:36236:2:b:16#00000000
 TB_MainProgram2.fbfaultcheck.xDone:BOOL:4:36264:1:b:16#00000002
 TB_MainProgram2.fbfaultcheck.xEnable:BOOL:4:36238:1:b:16#00000001
 TB_MainProgram2.fbfaultcheck.xFaultExists:REF:4:36268:4:b:16#00000403
-TB_MainProgram2.fbfc:DATA:4:38452:20:b:16#00000040
+TB_MainProgram2.fbfc:DATA:4:38452:20:b:16#40000040
 TB_MainProgram2.fbfc.EN:BOOL:4:38452:1:b:16#00000001
 TB_MainProgram2.fbfc.END:BOOL:4:38468:1:b:16#00000002
 TB_MainProgram2.fbfc.rOffThreshold:REAL:4:38460:4:b:16#00000001
@@ -507,7 +514,7 @@ TB_MainProgram2.fbfc.xManualFanControl:BOOL:4:38466:1:b:16#00000001
 TB_MainProgram2.fbfc.xSystemInitializing:BOOL:4:38454:1:b:16#00000001
 TB_MainProgram2.fbfc.xSystemOn:BOOL:4:38467:1:b:16#00000001
 TB_MainProgram2.fbfc.xSystemShuttingDown:BOOL:4:38453:1:b:16#00000001
-TB_MainProgram2.fbflowassign:DATA:4:37740:196:b:16#00000040
+TB_MainProgram2.fbflowassign:DATA:4:37740:196:b:16#40000040
 TB_MainProgram2.fbflowassign.EN:BOOL:4:37888:1:b:16#00000001
 TB_MainProgram2.fbflowassign.END:BOOL:4:37920:1:b:16#00000002
 TB_MainProgram2.fbflowassign.fbdebounce:DATA:4:37824:64:b:16#10000000
@@ -569,13 +576,13 @@ TB_MainProgram2.fbflowassign.wWordSignal:REF:4:37924:4:b:16#00000403
 TB_MainProgram2.fbflowassign.xAssignmentFlag:BOOL:4:37921:1:b:16#00000002
 TB_MainProgram2.fbflowassign.xBoundError:BOOL:4:37764:1:b:16#00000000
 TB_MainProgram2.fbflowassign.xWord:BOOL:4:37889:1:b:16#00000001
-TB_MainProgram2.fbmatl:DATA:4:38444:8:b:16#00000040
+TB_MainProgram2.fbmatl:DATA:4:38444:8:b:16#40000040
 TB_MainProgram2.fbmatl.EN:BOOL:4:38444:1:b:16#00000001
 TB_MainProgram2.fbmatl.END:BOOL:4:38447:1:b:16#00000002
 TB_MainProgram2.fbmatl.xMasterAutoTurnover:BOOL:4:38448:1:b:16#00000002
 TB_MainProgram2.fbmatl.xPrimaryAutoTurnover:BOOL:4:38445:1:b:16#00000001
 TB_MainProgram2.fbmatl.xSecondaryAutoTurnOver:BOOL:4:38446:1:b:16#00000001
-TB_MainProgram2.fbpc:DATA:4:36364:184:b:16#00000040
+TB_MainProgram2.fbpc:DATA:4:36364:184:b:16#40000040
 TB_MainProgram2.fbpc.EN:BOOL:4:36500:1:b:16#00000001
 TB_MainProgram2.fbpc.END:BOOL:4:36504:1:b:16#00000002
 TB_MainProgram2.fbpc.fbglobalprimarylifecycle:DATA:4:36412:44:b:16#10000000
@@ -640,7 +647,7 @@ TB_MainProgram2.fbpc.xSystemInitializing:BOOL:4:36503:1:b:16#00000001
 TB_MainProgram2.fbpc.xSystemON:BOOL:4:36502:1:b:16#00000001
 TB_MainProgram2.fbpc.xSystemShutdownInProgress:BOOL:4:36501:1:b:16#00000001
 TB_MainProgram2.fbpc.xTickRebalance:REF:4:36544:4:b:16#00000403
-TB_MainProgram2.fbplcl:DATA:4:38652:72:b:16#00000040
+TB_MainProgram2.fbplcl:DATA:4:38652:72:b:16#40000040
 TB_MainProgram2.fbplcl.EN:BOOL:4:38652:1:b:16#00000001
 TB_MainProgram2.fbplcl.END:BOOL:4:38687:1:b:16#00000002
 TB_MainProgram2.fbplcl.iTickArray:ARRAY [1..3] OF DINT:4:38656:12:b:16#00000001
@@ -664,7 +671,7 @@ TB_MainProgram2.fbplcl.xSecondaryEOLACK:REF:4:38712:4:b:16#00000403
 TB_MainProgram2.fbplcl.xSecondaryEOLReset:REF:4:38720:4:b:16#00000403
 TB_MainProgram2.fbplcl.xSecondaryPumpActive:BOOL:4:38685:1:b:16#00000001
 TB_MainProgram2.fbplcl.xSimplexMode:BOOL:4:38686:1:b:16#00000001
-TB_MainProgram2.fbpowerpressureflowthreshold:DATA:4:35776:240:b:16#00000040
+TB_MainProgram2.fbpowerpressureflowthreshold:DATA:4:35776:240:b:16#40000040
 TB_MainProgram2.fbpowerpressureflowthreshold.EN:BOOL:4:35984:1:b:16#00000001
 TB_MainProgram2.fbpowerpressureflowthreshold.END:BOOL:4:36012:1:b:16#00000002
 TB_MainProgram2.fbpowerpressureflowthreshold.fbdebounce1:DATA:4:35856:64:b:16#10000000
@@ -745,7 +752,7 @@ TB_MainProgram2.fbpowerpressureflowthreshold.xPressureLowFlag:BOOL:4:36015:1:b:1
 TB_MainProgram2.fbpowerpressureflowthreshold.xPressureLowInput:BOOL:4:36004:1:b:16#00000001
 TB_MainProgram2.fbpowerpressureflowthreshold.xPumpPowerLow:BOOL:4:36013:1:b:16#00000002
 TB_MainProgram2.fbpowerpressureflowthreshold.xPumpPowerLowUF:BOOL:4:35800:1:b:16#00000000
-TB_MainProgram2.fbpowerpressureflowvote:DATA:4:36016:24:b:16#00000040
+TB_MainProgram2.fbpowerpressureflowvote:DATA:4:36016:24:b:16#40000040
 TB_MainProgram2.fbpowerpressureflowvote.EN:BOOL:4:36018:1:b:16#00000001
 TB_MainProgram2.fbpowerpressureflowvote.END:BOOL:4:36028:1:b:16#00000002
 TB_MainProgram2.fbpowerpressureflowvote.iBadCount:INT:4:36016:2:b:16#00000000
@@ -761,7 +768,7 @@ TB_MainProgram2.fbpowerpressureflowvote.xSecondaryPumpActive:BOOL:4:36023:1:b:16
 TB_MainProgram2.fbpowerpressureflowvote.xSystemInitializing:BOOL:4:36024:1:b:16#00000001
 TB_MainProgram2.fbpowerpressureflowvote.xSystemOn:BOOL:4:36026:1:b:16#00000001
 TB_MainProgram2.fbpowerpressureflowvote.xSystemShuttingDown:BOOL:4:36025:1:b:16#00000001
-TB_MainProgram2.fbpressure:DATA:4:38524:100:b:16#00000040
+TB_MainProgram2.fbpressure:DATA:4:38524:100:b:16#40000040
 TB_MainProgram2.fbpressure.DONE:BOOL:4:38618:1:b:16#00000002
 TB_MainProgram2.fbpressure.EN:BOOL:4:38608:1:b:16#00000001
 TB_MainProgram2.fbpressure.fbdesig:DATA:4:38544:64:b:16#10000000
@@ -809,7 +816,7 @@ TB_MainProgram2.fbpressure.xEdgeSignal1:BOOL:4:38541:1:b:16#00000000
 TB_MainProgram2.fbpressure.xOutputSignal:BOOL:4:38619:1:b:16#00000002
 TB_MainProgram2.fbpressure.xSignalFall:BOOL:4:38540:1:b:16#00000000
 TB_MainProgram2.fbpressure.xSignalRise:BOOL:4:38532:1:b:16#00000000
-TB_MainProgram2.fbpsc:DATA:4:36332:32:b:16#00000040
+TB_MainProgram2.fbpsc:DATA:4:36332:32:b:16#40000040
 TB_MainProgram2.fbpsc.AutomaticSwitchRequest:REF:4:36344:4:b:16#00000403
 TB_MainProgram2.fbpsc.CycleSwitchRequest:REF:4:36348:4:b:16#00000403
 TB_MainProgram2.fbpsc.DuplexFailure:REF:4:36360:4:b:16#00000403
@@ -822,7 +829,7 @@ TB_MainProgram2.fbpsc.xSystemCali:BOOL:4:36335:1:b:16#00000001
 TB_MainProgram2.fbpsc.xSystemInit:BOOL:4:36336:1:b:16#00000001
 TB_MainProgram2.fbpsc.xSystemOn:BOOL:4:36334:1:b:16#00000001
 TB_MainProgram2.fbpsc.xSystemShutdownInProgress:BOOL:4:36333:1:b:16#00000001
-TB_MainProgram2.fbpump1assign:DATA:4:36564:196:b:16#00000040
+TB_MainProgram2.fbpump1assign:DATA:4:36564:196:b:16#40000040
 TB_MainProgram2.fbpump1assign.EN:BOOL:4:36712:1:b:16#00000001
 TB_MainProgram2.fbpump1assign.END:BOOL:4:36744:1:b:16#00000002
 TB_MainProgram2.fbpump1assign.fbdebounce:DATA:4:36648:64:b:16#10000000
@@ -884,7 +891,7 @@ TB_MainProgram2.fbpump1assign.wWordSignal:REF:4:36748:4:b:16#00000403
 TB_MainProgram2.fbpump1assign.xAssignmentFlag:BOOL:4:36745:1:b:16#00000002
 TB_MainProgram2.fbpump1assign.xBoundError:BOOL:4:36588:1:b:16#00000000
 TB_MainProgram2.fbpump1assign.xWord:BOOL:4:36713:1:b:16#00000001
-TB_MainProgram2.fbpump2assign:DATA:4:36760:196:b:16#00000040
+TB_MainProgram2.fbpump2assign:DATA:4:36760:196:b:16#40000040
 TB_MainProgram2.fbpump2assign.EN:BOOL:4:36908:1:b:16#00000001
 TB_MainProgram2.fbpump2assign.END:BOOL:4:36940:1:b:16#00000002
 TB_MainProgram2.fbpump2assign.fbdebounce:DATA:4:36844:64:b:16#10000000
@@ -946,7 +953,7 @@ TB_MainProgram2.fbpump2assign.wWordSignal:REF:4:36944:4:b:16#00000403
 TB_MainProgram2.fbpump2assign.xAssignmentFlag:BOOL:4:36941:1:b:16#00000002
 TB_MainProgram2.fbpump2assign.xBoundError:BOOL:4:36784:1:b:16#00000000
 TB_MainProgram2.fbpump2assign.xWord:BOOL:4:36909:1:b:16#00000001
-TB_MainProgram2.fbpvv:DATA:4:38136:28:b:16#00000040
+TB_MainProgram2.fbpvv:DATA:4:38136:28:b:16#40000040
 TB_MainProgram2.fbpvv.EN:BOOL:4:38140:1:b:16#00000001
 TB_MainProgram2.fbpvv.END:BOOL:4:38156:1:b:16#00000002
 TB_MainProgram2.fbpvv.rLastPower:REAL:4:38136:4:b:16#00000000
@@ -958,7 +965,7 @@ TB_MainProgram2.fbpvv.xPoorReadPrimary:BOOL:4:38141:1:b:16#00000001
 TB_MainProgram2.fbpvv.xPoorReadSecondary:BOOL:4:38142:1:b:16#00000001
 TB_MainProgram2.fbpvv.xPrimaryPumpActive:BOOL:4:38143:1:b:16#00000001
 TB_MainProgram2.fbpvv.xSecondaryPumpActive:BOOL:4:38144:1:b:16#00000001
-TB_MainProgram2.fbrtd1assign:DATA:4:36956:196:b:16#00000040
+TB_MainProgram2.fbrtd1assign:DATA:4:36956:196:b:16#40000040
 TB_MainProgram2.fbrtd1assign.EN:BOOL:4:37104:1:b:16#00000001
 TB_MainProgram2.fbrtd1assign.END:BOOL:4:37136:1:b:16#00000002
 TB_MainProgram2.fbrtd1assign.fbdebounce:DATA:4:37040:64:b:16#10000000
@@ -1020,7 +1027,7 @@ TB_MainProgram2.fbrtd1assign.wWordSignal:REF:4:37140:4:b:16#00000403
 TB_MainProgram2.fbrtd1assign.xAssignmentFlag:BOOL:4:37137:1:b:16#00000002
 TB_MainProgram2.fbrtd1assign.xBoundError:BOOL:4:36980:1:b:16#00000000
 TB_MainProgram2.fbrtd1assign.xWord:BOOL:4:37105:1:b:16#00000001
-TB_MainProgram2.fbrtd2assign:DATA:4:37152:196:b:16#00000040
+TB_MainProgram2.fbrtd2assign:DATA:4:37152:196:b:16#40000040
 TB_MainProgram2.fbrtd2assign.EN:BOOL:4:37300:1:b:16#00000001
 TB_MainProgram2.fbrtd2assign.END:BOOL:4:37332:1:b:16#00000002
 TB_MainProgram2.fbrtd2assign.fbdebounce:DATA:4:37236:64:b:16#10000000
@@ -1082,7 +1089,7 @@ TB_MainProgram2.fbrtd2assign.wWordSignal:REF:4:37336:4:b:16#00000403
 TB_MainProgram2.fbrtd2assign.xAssignmentFlag:BOOL:4:37333:1:b:16#00000002
 TB_MainProgram2.fbrtd2assign.xBoundError:BOOL:4:37176:1:b:16#00000000
 TB_MainProgram2.fbrtd2assign.xWord:BOOL:4:37301:1:b:16#00000001
-TB_MainProgram2.fbrtd3assign:DATA:4:37348:196:b:16#00000040
+TB_MainProgram2.fbrtd3assign:DATA:4:37348:196:b:16#40000040
 TB_MainProgram2.fbrtd3assign.EN:BOOL:4:37496:1:b:16#00000001
 TB_MainProgram2.fbrtd3assign.END:BOOL:4:37528:1:b:16#00000002
 TB_MainProgram2.fbrtd3assign.fbdebounce:DATA:4:37432:64:b:16#10000000
@@ -1144,13 +1151,13 @@ TB_MainProgram2.fbrtd3assign.wWordSignal:REF:4:37532:4:b:16#00000403
 TB_MainProgram2.fbrtd3assign.xAssignmentFlag:BOOL:4:37529:1:b:16#00000002
 TB_MainProgram2.fbrtd3assign.xBoundError:BOOL:4:37372:1:b:16#00000000
 TB_MainProgram2.fbrtd3assign.xWord:BOOL:4:37497:1:b:16#00000001
-TB_MainProgram2.fbsf:DATA:4:38788:12:b:16#00000040
+TB_MainProgram2.fbsf:DATA:4:38788:12:b:16#40000040
 TB_MainProgram2.fbsf.EN:BOOL:4:38788:1:b:16#00000001
 TB_MainProgram2.fbsf.END:BOOL:4:38790:1:b:16#00000002
 TB_MainProgram2.fbsf.xFilteredStart:REF:4:38796:4:b:16#00000403
 TB_MainProgram2.fbsf.xSystemOn:BOOL:4:38789:1:b:16#00000001
 TB_MainProgram2.fbsf.xUserReq:REF:4:38792:4:b:16#00000403
-TB_MainProgram2.fbsil:DATA:4:36548:16:b:16#00000040
+TB_MainProgram2.fbsil:DATA:4:36548:16:b:16#40000040
 TB_MainProgram2.fbsil.EN:BOOL:4:36548:1:b:16#00000001
 TB_MainProgram2.fbsil.END:BOOL:4:36551:1:b:16#00000002
 TB_MainProgram2.fbsil.xBeginSystemInitialization:REF:4:36552:4:b:16#00000403
@@ -1158,7 +1165,7 @@ TB_MainProgram2.fbsil.xInitializePumpSwitch:REF:4:36556:4:b:16#00000403
 TB_MainProgram2.fbsil.xShutdownInProgress:BOOL:4:36549:1:b:16#00000001
 TB_MainProgram2.fbsil.xSimplexMode:BOOL:4:36550:1:b:16#00000001
 TB_MainProgram2.fbsil.xSystemOn:REF:4:36560:4:b:16#00000403
-TB_MainProgram2.fbstop:DATA:4:36272:60:b:16#00000040
+TB_MainProgram2.fbstop:DATA:4:36272:60:b:16#40000040
 TB_MainProgram2.fbstop.fbSD:DATA:4:36276:24:b:16#10000000
 TB_MainProgram2.fbstop.fbSD.ET:TIME:4:36296:4:b:16#00000002
 TB_MainProgram2.fbstop.fbSD.IN:BOOL:4:36284:1:b:16#00000001
@@ -1176,7 +1183,7 @@ TB_MainProgram2.fbstop.xSystemCalibrating:REF:4:36324:4:b:16#00000403
 TB_MainProgram2.fbstop.xSystemInitializing:REF:4:36320:4:b:16#00000403
 TB_MainProgram2.fbstop.xSystemOn:REF:4:36316:4:b:16#00000403
 TB_MainProgram2.fbstop.xSystemShutdownInProgress:REF:4:36312:4:b:16#00000403
-TB_MainProgram2.fbsysstart:DATA:4:62448:128:b:16#10000040
+TB_MainProgram2.fbsysstart:DATA:4:62448:128:b:16#40000040
 TB_MainProgram2.fbsysstart.axInstrumentFlags:REF:4:62548:4:b:16#00000403
 TB_MainProgram2.fbsysstart.fbCali:DATA:4:62500:24:b:16#00000000
 TB_MainProgram2.fbsysstart.fbCali.ET:TIME:4:62520:4:b:16#00000002
@@ -1213,7 +1220,7 @@ TB_MainProgram2.fbsysstart.xSystemCalibrating:REF:4:62568:4:b:16#00000403
 TB_MainProgram2.fbsysstart.xSystemInitializing:REF:4:62564:4:b:16#00000403
 TB_MainProgram2.fbsysstart.xSystemOn:REF:4:62552:4:b:16#00000403
 TB_MainProgram2.fbsysstart.xSystemShutdownInProgress:BOOL:4:62540:1:b:16#00000001
-TB_MainProgram2.fbtc:DATA:4:38472:52:b:16#00000040
+TB_MainProgram2.fbtc:DATA:4:38472:52:b:16#40000040
 TB_MainProgram2.fbtc.EN:BOOL:4:38492:1:b:16#00000001
 TB_MainProgram2.fbtc.END:BOOL:4:38516:1:b:16#00000002
 TB_MainProgram2.fbtc.iSample:INT:4:38480:2:b:16#00000000
@@ -1230,7 +1237,7 @@ TB_MainProgram2.fbtc.SystemOn:BOOL:4:38515:1:b:16#00000001
 TB_MainProgram2.fbtc.xOverrideBypass:BOOL:4:38514:1:b:16#00000001
 TB_MainProgram2.fbtc.xSystemInitializing:BOOL:4:38512:1:b:16#00000001
 TB_MainProgram2.fbtc.xSystemShuttingDown:BOOL:4:38513:1:b:16#00000001
-TB_MainProgram2.fbtcms:DATA:4:38724:64:b:16#00000040
+TB_MainProgram2.fbtcms:DATA:4:38724:64:b:16#40000040
 TB_MainProgram2.fbtcms.arAutoPercOpen:ARRAY [1..5] OF REAL:4:38752:20:b:16#00000001
 TB_MainProgram2.fbtcms.arAutoPercOpen[1]:REAL:4:38752:4:b:16#00000001
 TB_MainProgram2.fbtcms.arAutoPercOpen[2]:REAL:4:38756:4:b:16#00000001
@@ -1253,7 +1260,7 @@ TB_MainProgram2.fbtcms.SystemOn:BOOL:4:38775:1:b:16#00000001
 TB_MainProgram2.fbtcms.xManualValveControl:BOOL:4:38774:1:b:16#00000001
 TB_MainProgram2.fbtcms.xSystemInitializing:BOOL:4:38772:1:b:16#00000001
 TB_MainProgram2.fbtcms.xSystemShuttingDown:BOOL:4:38773:1:b:16#00000001
-TB_MainProgram2.fbtcoo:DATA:4:38624:28:b:16#00000040
+TB_MainProgram2.fbtcoo:DATA:4:38624:28:b:16#40000040
 TB_MainProgram2.fbtcoo.EN:BOOL:4:38624:1:b:16#00000001
 TB_MainProgram2.fbtcoo.END:BOOL:4:38645:1:b:16#00000002
 TB_MainProgram2.fbtcoo.rHighThreshold:REAL:4:38636:4:b:16#00000001
@@ -1265,7 +1272,7 @@ TB_MainProgram2.fbtcoo.xForceOpen:BOOL:4:38644:1:b:16#00000001
 TB_MainProgram2.fbtcoo.xManualValveControl:BOOL:4:38642:1:b:16#00000001
 TB_MainProgram2.fbtcoo.xSystemInitializing:BOOL:4:38640:1:b:16#00000001
 TB_MainProgram2.fbtcoo.xSystemShuttingDown:BOOL:4:38641:1:b:16#00000001
-TB_MainProgram2.fbtempboundcheck:DATA:4:36040:100:b:16#00000040
+TB_MainProgram2.fbtempboundcheck:DATA:4:36040:100:b:16#40000040
 TB_MainProgram2.fbtempboundcheck.EN:BOOL:4:36093:1:b:16#00000001
 TB_MainProgram2.fbtempboundcheck.END:BOOL:4:36128:1:b:16#00000002
 TB_MainProgram2.fbtempboundcheck.fbTON1:DATA:4:36044:24:b:16#10000000
@@ -1298,7 +1305,7 @@ TB_MainProgram2.fbtempboundcheck.xTempAlarm:BOOL:4:36040:1:b:16#00000000
 TB_MainProgram2.fbtempboundcheck.xTemperatureFailure:REF:4:36136:4:b:16#00000403
 TB_MainProgram2.fbtempboundcheck.xTemperatureWarning:REF:4:36132:4:b:16#00000403
 TB_MainProgram2.fbtempboundcheck.xTempFault:BOOL:4:36041:1:b:16#00000000
-TB_MainProgram2.fbtsa:DATA:4:38164:80:b:16#00000040
+TB_MainProgram2.fbtsa:DATA:4:38164:80:b:16#40000040
 TB_MainProgram2.fbtsa.badRTD:INT:4:38164:2:b:16#00000000
 TB_MainProgram2.fbtsa.EN:BOOL:4:38220:1:b:16#00000001
 TB_MainProgram2.fbtsa.END:BOOL:4:38239:1:b:16#00000002
@@ -1323,7 +1330,7 @@ TB_MainProgram2.fbtsa.rTemp3:REAL:4:38232:4:b:16#00000001
 TB_MainProgram2.fbtsa.xRTD1Flag:BOOL:4:38236:1:b:16#00000001
 TB_MainProgram2.fbtsa.xRTD2Flag:BOOL:4:38237:1:b:16#00000001
 TB_MainProgram2.fbtsa.xRTD3Flag:BOOL:4:38238:1:b:16#00000001
-TB_MainProgram2.fbwaterlevellow:DATA:4:37936:100:b:16#00000040
+TB_MainProgram2.fbwaterlevellow:DATA:4:37936:100:b:16#40000040
 TB_MainProgram2.fbwaterlevellow.DONE:BOOL:4:38030:1:b:16#00000002
 TB_MainProgram2.fbwaterlevellow.EN:BOOL:4:38020:1:b:16#00000001
 TB_MainProgram2.fbwaterlevellow.fbdesig:DATA:4:37956:64:b:16#10000000
@@ -1371,7 +1378,7 @@ TB_MainProgram2.fbwaterlevellow.xEdgeSignal1:BOOL:4:37953:1:b:16#00000000
 TB_MainProgram2.fbwaterlevellow.xOutputSignal:BOOL:4:38031:1:b:16#00000002
 TB_MainProgram2.fbwaterlevellow.xSignalFall:BOOL:4:37952:1:b:16#00000000
 TB_MainProgram2.fbwaterlevellow.xSignalRise:BOOL:4:37944:1:b:16#00000000
-TB_MainProgram2.fbwaterlevellowlowlow:DATA:4:38036:100:b:16#00000040
+TB_MainProgram2.fbwaterlevellowlowlow:DATA:4:38036:100:b:16#40000040
 TB_MainProgram2.fbwaterlevellowlowlow.DONE:BOOL:4:38130:1:b:16#00000002
 TB_MainProgram2.fbwaterlevellowlowlow.EN:BOOL:4:38120:1:b:16#00000001
 TB_MainProgram2.fbwaterlevellowlowlow.fbdesig:DATA:4:38056:64:b:16#10000000
@@ -1419,23 +1426,23 @@ TB_MainProgram2.fbwaterlevellowlowlow.xEdgeSignal1:BOOL:4:38053:1:b:16#00000000
 TB_MainProgram2.fbwaterlevellowlowlow.xOutputSignal:BOOL:4:38131:1:b:16#00000002
 TB_MainProgram2.fbwaterlevellowlowlow.xSignalFall:BOOL:4:38052:1:b:16#00000000
 TB_MainProgram2.fbwaterlevellowlowlow.xSignalRise:BOOL:4:38044:1:b:16#00000000
-TB_MainProgram2.iBadRTDs:INT:4:35470:2:b:16#00000040
-TB_MainProgram2.rThroughputPercentage:REAL:4:35544:4:b:16#00000040
-TB_MainProgram2.sys_align:DATA:4:62576:24:b:16#00000040
+TB_MainProgram2.iBadRTDs:INT:4:35470:2:b:16#40000040
+TB_MainProgram2.rThroughputPercentage:REAL:4:35544:4:b:16#40000040
+TB_MainProgram2.sys_align:DATA:4:62576:24:b:16#40000040
 TB_MainProgram2.sys_align.ET:TIME:4:62596:4:b:16#00000002
 TB_MainProgram2.sys_align.IN:BOOL:4:62584:1:b:16#00000001
 TB_MainProgram2.sys_align.M:BOOL:4:62576:1:b:16#00000000
 TB_MainProgram2.sys_align.PT:TIME:4:62588:4:b:16#00000001
 TB_MainProgram2.sys_align.Q:BOOL:4:62592:1:b:16#00000002
 TB_MainProgram2.sys_align.StartTime:TIME:4:62580:4:b:16#00000000
-TB_MainProgram2.sys_ready:BOOL:4:62166:1:b:16#00000040
-TB_MainProgram2.USERAcknowledgeFault:BOOL:4:35365:1:b:16#00000040
-TB_MainProgram2.USERManualValvePos:REAL:4:35540:4:b:16#00000040
-TB_MainProgram2.USERMasterStart:BOOL:4:35323:1:b:16#00000040
-TB_MainProgram2.USERRebalancePumpLifecycle:BOOL:4:35537:1:b:16#00000040
-TB_MainProgram2.USERShutdown:BOOL:4:35469:1:b:16#00000040
-TB_MainProgram2.USERTurnoverRequest:BOOL:4:35536:1:b:16#00000040
-TB_MainProgram2.xFILTER_INIT:BOOL:4:35538:1:b:16#00000040
-TB_MainProgram2.xMasterAutoTurnoverRequest:BOOL:4:35539:1:b:16#00000040
-TB_MainProgram2.xMasterFault:BOOL:4:35549:1:b:16#00000040
-TB_MainProgram2.xMasterTurnoverRequest:BOOL:4:35548:1:b:16#00000040
+TB_MainProgram2.sys_ready:BOOL:4:62166:1:b:16#40000040
+TB_MainProgram2.USERAcknowledgeFault:BOOL:4:35365:1:b:16#40000040
+TB_MainProgram2.USERManualValvePos:REAL:4:35540:4:b:16#40000040
+TB_MainProgram2.USERMasterStart:BOOL:4:35323:1:b:16#40000040
+TB_MainProgram2.USERRebalancePumpLifecycle:BOOL:4:35537:1:b:16#40000040
+TB_MainProgram2.USERShutdown:BOOL:4:35469:1:b:16#40000040
+TB_MainProgram2.USERTurnoverRequest:BOOL:4:35536:1:b:16#40000040
+TB_MainProgram2.xFILTER_INIT:BOOL:4:35538:1:b:16#40000040
+TB_MainProgram2.xMasterAutoTurnoverRequest:BOOL:4:35539:1:b:16#40000040
+TB_MainProgram2.xMasterFault:BOOL:4:35549:1:b:16#40000040
+TB_MainProgram2.xMasterTurnoverRequest:BOOL:4:35548:1:b:16#40000040
