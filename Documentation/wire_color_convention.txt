@@ -1,0 +1,12 @@
+DC supply +:Red
+DC Supply -:Black
+Digital in: Striped Yellow
+Digital Out: Solid Yellow
+Analog In: Striped Blue
+Analog out: Solid Blue
+RTD+: Solid Orange
+RTD-: Striped Orange
+
+AC Line: white
+AC N:Black
+AC Gnd: green
