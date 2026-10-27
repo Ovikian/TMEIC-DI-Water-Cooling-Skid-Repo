@@ -1,0 +1,80 @@
+Operator Startup From Standby 
+Operator Startup From Fault
+Operator Shutdown All states
+Operator Switch Pumps Manually (no Simplex, all States)
+Operator Switch Pumps Manually (Simplex, All States)
+Cycling During Running Mode 
+Rebalance Pumps
+Activate Simplex Mode while cycling is true
+Manual Fan Control
+Manual Valve Control
+Setpoint Change
+Fault Acknowledgement
+Create a setpoint above current temp, manually control valve to go past setpoint, then set it back to automatic control
+Lower flow to force hydraulic failure, then immediately allow for normal flow.
+Overheat Skid, allow fault. Immediatley try to start it up again, with acknowledgement. Let it cool, to right temperature, then acknowledge fault.
+Samething with Conductivity
+samething with hydraulics
+Same thing with level
+
+Verify Conductivity Accuracy
+Verify Temp accuracy
+Verify Flow Accuracy
+Verify Current Accuracy
+Verify Voltage Accuracy
+
+Measurement Accuracy
+
+System Startup
+
+System Shutdown
+
+Pump Cycling Functionality
+
+Setpoint Changing
+
+Manual Control
+
+Fault Testing
+
+Disconnected Pump Ignitaion
+Disconnected Sensors
+Simulate Faulty Sensors
+Bad Switching
+Button Pressing Abuse
+
+
+
+Edge Cases:
+
+Startup on disconnected primary pump.
+Attempt to startup machine with no pumps connected
+Disconnect Wire From Flow Meter
+Disconnect FB wire from Valve
+Disconnect Conductivity Sensor
+Disconnect Secondary Pump Wire And Then Switch
+Disconnect 1 RTD, check for averaging.
+Disconnect 2 RTD, check for failure
+Disconnect Pressure Switch
+Create a Fault during diagnostics phase.
+Create Anomolous Conductivity Result
+Create Anamolous Level Results
+Switch Pumps, Disconnect Active Pump
+Same as above, but after switch, disconnect the next active pump.
+Disconnect Active Pumps, Disengage Simplex Mode, and try to switch.
+Try to Switch During Diagnostics & Initialization
+Setpoint Change During initialization/diagnostics
+Set setpoint to be the same is it is currently.
+Switch pumps during initialization/diagnostics.
+Repaditely switch pumps manually
+Multiple Button Presses (startup, switching)
+Manual Control Valve, allow overheating.
+Observe automatic valve control, 0 fans, 1 fan, 2 fans.
+Allow for conductivity to exceed 1 microCm/s.
+Exceed maximum and minium valve position in manual mode
+Exceeed maximum and minimum setpoint in setpoint changes.
+Short circuit pump wire.
+Create unstable close loop valve.
+Create Fault condition fault skid, disconnect power, and restart.
+Drain water, let pumps run dry briefly
+
